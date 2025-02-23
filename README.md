@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @anuyrm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Task Management System
 
-<!---
-anuyrm/anuyrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Overview
+This is a Spring Boot application that provides a RESTful API for managing tasks. It includes CRUD operations for tasks with basic validation and persistence using H2 in-memory database.
+
+## Prerequisites
+- Java 17
+- Maven 3.6+
+- Git
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/TaskManagementSystem.git
